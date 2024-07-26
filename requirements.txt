@@ -1,0 +1,7 @@
+flask
+Flask-Cors
+langchain-google-genai
+langchain-chroma
+langchain-community 
+pypdf
+streamlit
